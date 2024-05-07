@@ -1,6 +1,6 @@
 # Welcome
 
-This is a word lsit for API hacking and all that tech. 
+This is a wordlist for API hacking and all that tech. 
 
 
 ### Collection
