@@ -7,7 +7,7 @@ This is a wordlist for API hacking and all that tech.
 
 This is a collection from multipple wordlists such as:
 
-**Seclists**:
+**[Seclists](https://github.com/danielmiessler/SecLists)**:
 * actions-lowercase.txt
 * actions.txt
 * actions-uppercase.txt
