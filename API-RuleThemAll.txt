@@ -192,6 +192,11 @@ api/videos
 api/view
 api/whoami
 api/widget
+api/system
+api/setting
+api/settings
+api/system/setting
+api/system/settings
 api/widgets/events
 application.wadl
 doc
@@ -11222,6 +11227,9 @@ syndication
 sys
 sysadmin
 system
+systems
+setting
+settings
 system_web
 T
 t
