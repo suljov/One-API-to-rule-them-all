@@ -12,6 +12,7 @@ api/auth/logout
 api/batch
 api/branches
 api/brands
+api/calculate
 api/User
 api/User/register
 api/call
