@@ -23,4 +23,5 @@ This is a collection from multipple wordlists such as:
 
 **Extra**:
 * It also contains endpoints i have found and seen from CTF:s or in engagements (some might be cleaned to not expose information)
+* Some are generated from ChatGPT to extend the surface area to find endpoints
 
