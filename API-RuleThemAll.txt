@@ -536,6 +536,8 @@ api/FastSpring/productsync
 api/geo
 api/get
 api/graphql
+graphql/api
+graphql/graphql
 api/identity
 api/identity/envelope
 api/index.html
