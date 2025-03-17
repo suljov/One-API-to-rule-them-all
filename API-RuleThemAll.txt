@@ -22,7 +22,6 @@ __
 1999
 1x1
 2
-2
 20
 200
 2000
@@ -34,7 +33,7 @@ __
 2006
 2007
 3
-3.0/
+3.0
 30
 300
 3ds_callback
@@ -150,7 +149,6 @@ account.project.suspend
 AccountRelationship
 AccountRelationshipShareRule
 accounts
-accounts
 Accounts
 account.setfilter
 AccountShare
@@ -207,7 +205,6 @@ actions
 Actions
 activate
 Activate
-active
 active
 ActiveFeatureLicenseMetric
 ActivePermSetLicenseMetric
@@ -338,8 +335,7 @@ admin
 admin_
 Admin
 admin/config.php
-admin/config.php
-adminer/
+adminer
 adminer.sql
 admin/heapdump
 adminhelp
@@ -431,7 +427,6 @@ Alert
 alerts
 alias
 aliases
-aliases
 all
 AllowedEmailDomain
 alpha
@@ -484,7 +479,7 @@ ApexTestSuite
 ApexTrigger
 ApexTypeImplementor
 api
-api/3.0/artists/
+api/3.0/artists
 api/ads
 api/announcements
 api/api
@@ -523,7 +518,6 @@ api-doc
 apidoc
 api-docs
 api/docs
-api/docs/
 apidocs
 apidocs/swagger
 apidocs/swagger.json
@@ -651,7 +645,6 @@ api/users/current
 api/users/login
 api/User/whoami
 api/v1
-api/v1/
 api/v1/account/accounts
 api/v1/account/accounts/summaries
 api/v1/account/oauth/ticket
@@ -697,7 +690,7 @@ api/v1/Coupon/codes
 api/v1/delta/deviceCatalog/devices
 api/v1/delta/deviceCatalog/deviceTypes
 api/v1/delta/deviceCatalog/manufacturers
-api/v1/delta/monitoring/accounts/
+api/v1/delta/monitoring/accounts
 api/v1/delta/order
 api/v1/delta/userAssets
 api/v1/docs
@@ -793,7 +786,7 @@ api/v2/User/whoami
 api/v3
 api/v3/docs
 api/v3/login
-api/v3/projects/
+api/v3/projects
 api/v3/swagger.json
 api/v3/swagger-ui
 api/v3/swagger-ui/index.html
@@ -801,7 +794,7 @@ api/v3/swagger.yaml
 api/v4/groups
 api/v4/projects
 api/v4/users
-api/v5/projects/
+api/v5/projects
 api/videos
 api/view
 api/whoami
@@ -823,7 +816,6 @@ appliance
 application
 ApplicationFormTemplate
 applications
-application.wadl
 application.wadl
 application.wadl?detail=false
 application.wadl?detail=true
@@ -886,7 +878,7 @@ article
 articles
 Articles
 Article Type__DataCategorySelection
-artists/
+artists
 arts
 asia
 asin()
@@ -916,8 +908,6 @@ AssetRelationship
 assets
 AssetShare
 assets/images
-assets/images/
-assets/images/big-checkbox-583f9f7f.png
 assets/images/big-checkbox-583f9f7f.png
 assets/images/loader-dark-45940ae3.gif
 assets/images/upsell-icon-74191f89.svg
@@ -1189,7 +1179,6 @@ baKeyIsDown
 bak-up
 bakup
 balance
-balance
 Balance
 balances
 Balances
@@ -1349,7 +1338,6 @@ bdata
 bea
 bean
 beans
-beans
 beginCamera()
 beginContour()
 beginRaw()
@@ -1422,16 +1410,13 @@ blobs
 Blobs
 block
 blocks
-blocks
-blog
-blog/
 blog
 Blog
 blog/blog.rss
 blogger
 bloggers
 bloginfo_rss
-blog/page-data/
+blog/page-data
 blog/page-data/app-data.json
 blogs
 blog/sw.js
@@ -1450,7 +1435,6 @@ body_class
 book
 Bookmark
 Bookmarks
-books
 books
 Books
 bookstore
@@ -1712,7 +1696,6 @@ CalculationProcedureStep
 CalculationProcedureVariable
 CalculationProcedureVersion
 calendar
-calendar
 Calendar
 calendar.json
 CalendarView
@@ -1818,8 +1801,6 @@ catch
 categories
 Categories
 category
-category/
-category
 Category
 CategoryData
 CategoryNode
@@ -1870,9 +1851,7 @@ cfg
 cfide
 CFrame_InitTable
 cgi
-cgi
 cgi-bin
-cgi-bin/
 cgibin
 cgi-bin/config.exp
 cgi-exe
@@ -1884,7 +1863,6 @@ cgi-sys
 cgi-win
 ch
 chan
-change
 change
 Change
 ChangeDungeon
@@ -2019,7 +1997,6 @@ Char_ButtonClick
 chart
 Chart
 charts
-charts/
 charts/top
 charts/top?genre=
 chat
@@ -2142,7 +2119,6 @@ ChatterExtension
 ChatterExtensionConfig
 ChatterMessage
 Chat_Update
-check
 check
 check_admin_referer
 check_ajax_referer
@@ -2439,7 +2415,6 @@ Community (Zone)
 comp
 companies
 company
-company
 Company
 company.add
 company.contract
@@ -2488,12 +2463,10 @@ conf
 conference
 conferences
 config
-config
 config/database.yml
 config/deploy.yml
 config.inc
 config.inc.php
-config.json
 config.json
 config.lua
 .config.php
@@ -2730,7 +2703,6 @@ CraftTypeDropDown_Click
 CraftTypeDropDown_OnLoad
 CraftTypeDropDown_Show
 create
-create
 Create
 CreateAuctionItem
 CreateAuctionMoney
@@ -2887,7 +2859,6 @@ crs
 crush
 Crush
 crypto
-crypto
 cs
 csp_report
 CspTrustedSite
@@ -2907,7 +2878,6 @@ currency.resume
 currency.suspend
 CurrencyType
 currency.upload
-current
 current
 current_filter
 current_theme_supports
@@ -2956,14 +2926,12 @@ Daily_count
 damage
 Damage
 DandBCompany
-dasbhoard/
+dasbhoard
 Dashboard
 DashboardComponent
 DashboardTag
 dashbox
-dashbox/
 dat
-data/
 data
 Data
 DataAssessmentFieldMetric
@@ -3006,7 +2974,6 @@ de
 DebaseTextureCheckButton_IsChecked
 DebaseTextureCheckButton_SetChecked
 debian
-debug
 debug
 Debug
 DebugGetButton
@@ -3116,7 +3083,6 @@ Details
 detect
 Detect
 dev
-dev
 Dev
 dev60cgi
 devel
@@ -3165,7 +3131,7 @@ disclosure
 DisconnectFromServer
 discover
 discover_pingback_server_uri
-discover/sets/
+discover/sets
 discovery
 discuss
 discussion
@@ -3227,8 +3193,6 @@ docker-compose.yml
 Dockerfile
 .dockerignore
 docs
-docs
-docs/
 docs41
 docs51
 docs/api
@@ -3260,7 +3224,6 @@ do_feed_rss2
 dofile
 doFor
 DoFor
-domain
 domain
 Domain
 domain.delete
@@ -3298,7 +3261,6 @@ do_trackbacks
 double
 down
 download
-download
 Download
 downloads
 Downloads
@@ -3321,7 +3283,6 @@ DsarPolicyLog
 DuelFrame_OnEvent
 DuelFrame_OnLoad
 DuelFrame_OnUpdate
-dump
 dump
 dumpenv
 DuplicateJob
@@ -3449,7 +3410,6 @@ enumerationitem.edit
 en_US
 .env
 env
-env
 envelope.print
 environ
 environment
@@ -3476,7 +3436,6 @@ errata
 error
 errorhistory.showlog
 errors
-errors
 err_output
 es
 esales
@@ -3496,12 +3455,10 @@ espanol
 established
 esupport
 etc
-etc
 ethics
 ETL
 ETLDirect
 europe
-event
 event
 Event
 EventBusSubscriber
@@ -3510,7 +3467,6 @@ EventLogFile
 EventRelation
 EventRelayConfig
 EventRelayFeedback
-events
 events
 Events
 EventTag
@@ -3570,8 +3526,6 @@ explode
 Explode
 exploits
 explorer
-explorer
-export
 export
 ExportMesh
 ExportWebService
@@ -3618,7 +3572,6 @@ fashion
 Fashion
 favicon.ico
 favorite
-favorite
 Favorite
 favorites
 FCF_Close
@@ -3642,9 +3595,7 @@ FCF_TabResize
 FCF_UnDockFrame
 fcgi-bin
 feature
-feature
 featured
-features
 features
 fedora
 feed
@@ -3675,12 +3626,10 @@ FieldServiceOrgSettings
 FigureSlider_OnLoad
 FigureSlider_OnValueChanged
 file
-file
 fileadmin
 FileAge
 FileDialog
 filelist
-files
 files
 FileSizeEx
 fill()
@@ -5014,7 +4963,6 @@ GlImportTb
 GlImportTran
 GLJournalUtils
 global
-global
 Global
 globalnav
 globals
@@ -5082,7 +5030,6 @@ GNPF_SetPostDate
 GNPF_Title_OnClick
 GNPF_UpdatePostView
 go
-go
 Go
 Goal
 GoalLink
@@ -5116,7 +5063,6 @@ Graphics
 graphiql
 graphiql/finland
 graphiql.php
-graphql
 graphql
 graphql/console
 graphql-explorer
@@ -5618,7 +5564,6 @@ headers
 header_textcolor
 headlines
 health
-health
 Health
 healthcare
 HealthCareDiagnosis
@@ -5650,7 +5595,6 @@ HideUIPanel
 HighLight
 Highlight_Hide
 history
-history
 History
 hitcount
 hits
@@ -5658,10 +5602,8 @@ hiword
 hiWord
 holds
 holiday
-holiday
 Holiday
 holidays
-home
 home
 Home
 homepage
@@ -5687,7 +5629,6 @@ hostingpartner.edit
 hostingpartner.filter
 hostingpartner.setfilter
 hostingpartner.su
-hosts
 hosts
 hotels
 hour()
@@ -6067,7 +6008,6 @@ IM_Search_OnClick
 IM_TabBut_OnClick
 IM_TopPageButton_OnClick
 in
-in
 inbox
 InboxFrameItem_OnClick
 InboxFrameItem_OnEnter
@@ -6102,7 +6042,6 @@ IndividualHistory
 IndividualShare
 industries
 industry
-info
 info
 Info
 infoboard
@@ -6178,8 +6117,7 @@ InterfaceSFXVolumeSlider_GetValue
 InterfaceSFXVolumeSlider_SetValue
 internal
 internal_api
-internal_api/
-internal_api/1/accounts/
+internal_api/1/accounts
 InternalOrganizationUnit
 international
 internet
@@ -6440,7 +6378,6 @@ J
 ja
 ja_JP
 japan
-java/
 java
 Java
 javascript
@@ -6454,7 +6391,6 @@ Job
 JobCostUtils
 JobProfile
 JobProfileQueueGroup
-jobs
 jobs
 jobs/1
 jobs/1/hm-deploy-1-theinstance1-9
@@ -6623,7 +6559,6 @@ library
 libs
 licence
 license
-license
 LICENSE
 LicenseDefinitionCustomPermission (Developer Preview)
 license.md
@@ -6663,7 +6598,6 @@ Linux
 liquibase
 lisence
 lisense
-list
 list
 List
 ListEmail
@@ -6752,7 +6686,6 @@ Log
 log/add
 log_app
 logfile
-logfile
 logfiles
 logger
 loggers
@@ -6818,7 +6751,6 @@ LoginScrollUpButton_OnUpdate
 logo
 logon
 logos
-logout
 logout
 Logout
 LogoutEventStream
@@ -7438,7 +7370,6 @@ mb
 mbo
 mdb
 me
-me
 me/activities/all/own
 measure
 measure.delete
@@ -7471,7 +7402,6 @@ MerchantAccount
 merge_filters
 me/settings/privacy
 message
-messages
 messages
 Messages
 messaging
@@ -7657,7 +7587,7 @@ MusicFrequencySlider_SetValue
 MusicVolumeSlider_GetValue
 MusicVolumeSlider_SetValue
 MutingPermissionSet
-mw-config/
+mw-config
 my
 My
 myaccount
@@ -7751,7 +7681,7 @@ nokia
 noLights()
 noLoop()
 nomad
-nomad/global/
+nomad/global
 nomad/global/cluster
 norm()
 normal()
@@ -7777,7 +7707,6 @@ notificationlist.resume
 notificationlist.send
 notificationlist.suspend
 notificationlist.users
-notifications
 notifications
 notifications/3d_callback/checkout/:urn
 notifications/3d_callback/details_update/:product
@@ -7899,7 +7828,6 @@ offers
 office
 Office
 ogl
-old
 old
 oldie
 OmniDataPack
@@ -8166,7 +8094,6 @@ OrderItemType
 OrderOwnerSharingRule
 OrderPaymentSummary
 orders
-orders
 OrderShare
 OrderStatus
 OrderSummary
@@ -8185,7 +8112,6 @@ os
 other
 others
 Others
-out
 out
 outgoing
 OutgoingEmail
@@ -8213,10 +8139,9 @@ PackInts
 PackUInts
 PackWords
 pad
-page/
 page
 page2
-pages/
+pages
 _pages
 pages
 Pages
@@ -8358,7 +8283,6 @@ patents
 path
 PauseSimulation
 payment
-payment
 Payment
 payment.add
 payment.add.redirect
@@ -8386,7 +8310,6 @@ payment.recurring.settings
 payment.refund
 payments
 payments/checkout
-payments/checkout/
 payments/checkout/billing_address
 PaymentSchedule
 PaymentScheduleItem
@@ -8531,10 +8454,8 @@ PendingOrderSummary
 PendingServiceRouting
 PendingServiceRoutingInteractionInfo
 people
-people
 People
 people/directory
-people/directory/
 PeoplewareRowActAs_OnEnter
 PeoplewareRowJobs_OnEnter
 PeoplewareScrollFrameRefresh
@@ -8633,7 +8554,6 @@ pgp
 PGraphics
 pgsql
 phishing
-phishing
 phone
 Phone
 phones
@@ -8644,7 +8564,6 @@ photos
 php
 PHP
 phpBB2
-phpinfo
 phpinfo
 phpinfo.php
 phpmyadmin
@@ -8668,7 +8587,6 @@ PickupMacroItem
 PickupStoreBuyBackItem
 PickupStoreSellItem
 pics
-picture
 picture
 Picture
 pictures
@@ -8966,7 +8884,6 @@ privmsg
 privs
 prn
 pro
-pro
 Problem
 problems
 problems.setfilter
@@ -9023,7 +8940,6 @@ Produce
 ProducerCommission
 producers
 product
-product
 Product2
 Product2DataTranslation
 ProductAttribute
@@ -9049,7 +8965,6 @@ ProductRequest
 ProductRequestLineItem
 ProductRequired
 products
-products
 Products
 ProductSellingModel
 ProductSellingModelOption
@@ -9061,7 +8976,6 @@ ProductTransfer
 ProductWarrantyTerm
 professor
 .profile
-profile
 profile
 Profile
 profile.add
@@ -9076,7 +8990,6 @@ profile.docflow_counteragent.suspend
 profile.edit
 profile.history
 profile.reconciliation
-profiles
 profiles
 Profiles
 profile.setfilter
@@ -9172,7 +9085,6 @@ pro/redeem/:code
 protect
 protected
 proxy
-proxy
 ps
 PShader
 PShape
@@ -9212,7 +9124,6 @@ QEB_ItemButton_OnEnter
 quad()
 quadraticVertex()
 QUARTER_PI
-query
 query
 QueryPerformanceCounter
 QueryPerformanceFrequency
@@ -9402,8 +9313,6 @@ readfolder
 ReadForceSensor
 ReadIni
 readme
-readme
-README
 README
 readme.html
 README.html
@@ -9586,7 +9495,6 @@ Reply
 ReplyReportAbuse
 ReplyText
 report
-report
 Report
 reporting
 reportlist
@@ -9668,7 +9576,6 @@ RevenueAsyncOperation
 RevenueTransactionErrorLog
 reverse()
 review
-reviews
 reviews
 revoke_super_admin
 rewind_posts
@@ -9853,7 +9760,6 @@ screenX()
 screenY()
 screenZ()
 script
-script
 ScriptBorder_Init
 scripts
 Scripts
@@ -9867,8 +9773,6 @@ SC_UpdatePlayerItem
 sdk
 se
 search
-search/
-search
 Search
 SearchGroupFrame_DropDownMenu_Click
 SearchGroupFrame_DropDownMenu_OnLoad
@@ -9876,8 +9780,8 @@ SearchGroupFrame_DropDownMenu_Show
 SearchGroupPeople
 SearchPath
 SearchPromotionRule
-Search-Replace-DB/
-Search-Replace-DB-master/
+Search-Replace-DB
+Search-Replace-DB-master
 search/sounds/?filter.license=to_share
 search/suggestions
 search_theme_directories
@@ -9887,10 +9791,9 @@ secret
 secrets
 secret_salt_warning
 section
-section
 sections
 secure
-secure/attachmentzip/
+secure/attachmentzip
 secure/ConfigureReport!default.jspa
 secure/ConfigureReport.jspa
 secured
@@ -9938,7 +9841,6 @@ SelfServiceUser
 sell
 Seller
 seminars
-send
 send
 SendChatMessage
 send_confirmation_on_profile_email
@@ -10072,7 +9974,6 @@ Servlets
 servlets-examples
 session
 SessionPermSetActivation
-sessions
 sessions
 set
 set()
@@ -10214,7 +10115,7 @@ SetQuestRequestFrame
 SetQuestTrack
 SetRaidTarget
 SetRoleIntroduce
-sets/
+sets
 SetScreenSaver
 SetScriptAttribute
 SetScriptRawBuffer
@@ -10247,7 +10148,6 @@ SetThreadResumeLocation
 SetThreadSwitchTiming
 setting
 Setting
-settings
 settings
 settings()
 Settings
@@ -10339,10 +10239,9 @@ shows
 showthread
 ShowUIPanel
 shtml
-si/
+si
 sign
 signature
-signin
 signin
 sign-out
 signup
@@ -10918,7 +10817,6 @@ space
 spacer
 spain
 spam
-spam
 spanish
 spawn_cron
 SpeakerDropDown_GetSelected
@@ -10986,12 +10884,12 @@ sql
 sqladmin
 sqlnet.log/account
 sqrt()
-sr/
+sr
 src
 srchad
 srv
 ss
-SS/
+SS
 SSB_GetAllSortType
 SSB_GetBoardCount
 SSB_GetScoreItemBoard
@@ -11069,13 +10967,12 @@ StaticPopup_Resize
 StaticPopup_Show
 StaticPopup_Visible
 StaticResource
-stations/
+stations
 statistic
 statistics
 Statistics
 stats
 Stats
-status
 status
 status2
 StatusDialogClick
@@ -11131,7 +11028,6 @@ strokeCap()
 strokeJoin()
 strokeWeight()
 student
-student
 student?ref=t2045
 student/reverify
 students
@@ -11139,7 +11035,6 @@ student/verify
 study
 Study
 stuff
-style
 style
 style_images
 styles
@@ -11161,12 +11056,11 @@ submit
 submit_button
 submitter
 subscribe
-subscribe
 subscribed
 subscribe.resume
 subscribe.suspend
 subscription
-subscription/orders/
+subscription/orders
 subscriptions
 subset()
 subSilver
@@ -11209,10 +11103,8 @@ svn
 svr
 sw
 swagger
-swagger/
 swagger-docs
 swagger/index.html
-swagger.json
 swagger.json
 swagger-resources
 swagger/static/index.html
@@ -11324,8 +11216,6 @@ TagDefinition
 tag_description
 tagline
 tags
-tags/
-tags
 Tags
 TakeInboxItem
 TakeoutPetItem
@@ -11426,7 +11316,6 @@ technical
 technology
 Technology
 television
-temp/
 temp
 template
 templates
@@ -11482,7 +11371,6 @@ Territory2Type
 TerritoryMgmtObjectConfig
 terrorism
 test
-test
 Test
 test/apacheasp/test.asp
 test/cgi/test.html
@@ -11490,7 +11378,6 @@ test/fcgi/fcgi.py
 test/fcgi/test.fcgi
 TestFrame_Update
 testimonials
-testing
 testing
 test.php
 test/php/test.php
@@ -11603,7 +11490,6 @@ ticket.write.softregistration
 ticket.write.task
 ticket.write.user
 time
-time
 TimeFlagCancelButton_OnClick
 TimeFlagFrame_OnEvent
 TimeFlagFrame_OnHide
@@ -11651,10 +11537,8 @@ tld.idntable.resume
 tld.idntable.suspend
 tld.idntable.view
 tmp
-tmp
 tn
 toc
-today
 today
 ToggleAreaMap
 ToggleAutoRun
@@ -11728,7 +11612,6 @@ toys
 tpv
 tr
 trace
-trace
 Trace.axd
 traceroute
 track
@@ -11788,7 +11671,6 @@ trim()
 true
 trunk
 try
-try
 tsconfig.json
 TubeClose
 TubeOpen
@@ -11843,7 +11725,6 @@ TwoFactorTempCode
 TWO_PI
 tx
 txt
-type
 type
 types
 Typography
@@ -12105,7 +11986,6 @@ UpdateWorldMapFrameAlpha
 UpdateWorldMapFrameSize
 upgrade
 upload
-upload
 Upload
 uploader
 upload_is_file_too_big
@@ -12116,7 +11996,6 @@ upload_size_limit_filter
 upload_space_setting
 upset
 Upset
-url
 url
 Url
 urlencode_deep
@@ -12141,7 +12020,6 @@ UseExtraAction
 UseImplementAction
 UseItemByName
 UsePetAction
-user
 user
 User
 UserAccountTeamMember
@@ -12197,7 +12075,6 @@ UserRecordAccess
 user.resume
 UserRole
 users
-users
 Users
 users_can_register_signup_filter
 users/current
@@ -12228,8 +12105,6 @@ utils
 v
 V
 v1
-v1
-v1/
 v10
 v10.01
 v10.02
@@ -12488,7 +12363,7 @@ v1/common/connections
 v1/common/notifications
 v1/common/preferences
 v1/common/users/password
-v1/connectors/
+v1/connectors
 v1/consents
 v1/contents
 v1/cookiesync
@@ -12497,22 +12372,19 @@ v1/data
 v1/delta/deviceCatalog/devices
 v1/delta/deviceCatalog/deviceTypes
 v1/delta/deviceCatalog/manufacturers
-v1/delta/monitoring/accounts/
+v1/delta/monitoring/accounts
 v1/delta/order
 v1/delta/userAssets
 v1/docs
 v1/dsync/nexstar
 v1/event
-v1/event
 v1/event/permission
-v1/events
 v1/events
 v1/explorer
 v1/filters
 v1/geoip
 v1/graphiql
 v1/graphiql.php
-v1/graphql
 v1/graphql
 v1/graphql/console
 v1/graphql.php
@@ -12546,7 +12418,7 @@ v1/profile
 v1/quote
 v1/recentviews
 v1/redirect
-v1/resolve-ui-configurations/by-name/
+v1/resolve-ui-configurations/by-name
 v1/resources
 v1/self
 v1/session
@@ -12577,11 +12449,9 @@ v1/users/current
 v1/usersync
 v1/visits
 v1/widgets
-v1/workflows/org/
+v1/workflows/org
 v1/xhr
 v2
-v2
-v2/
 v2.01
 v2.02
 v2.03
@@ -12697,7 +12567,7 @@ v2/api-docs/swagger.json
 v2/api/swagger
 v2/api/swagger.json
 v2/api/swagger-ui
-v2/auction/
+v2/auction
 v2/auth
 v2/bid
 v2/_catalog
@@ -12755,7 +12625,6 @@ v2/undefined
 v2/users
 v2/vendor-list.json
 v2/visitors/post
-v3
 v3
 v3.01
 v3.02
@@ -13534,7 +13403,6 @@ v9.98
 v9.99
 Vagrantfile
 validate
-validate
 Validate
 validate_current_theme
 validate_file
@@ -13655,9 +13523,7 @@ vendors
 Vendors
 VerificationHistory
 verify
-verify
 Verify
-version
 version
 Version
 VERSION
