@@ -1321,3 +1321,7 @@ webapi
 browse
 discover
 shopping
+impersonatemember
+impersonatemember/token
+impersonatemember/member
+impersonatemember/user
