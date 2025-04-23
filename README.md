@@ -24,6 +24,10 @@ This is a collection from multipple wordlists/tools such as:
 
 - Alias: **apiroutes-240528** Filename: **httparchive_apiroutes_2024_05_28.txt**
 
+**[Hacking-APIs by hAPI-hacker](https://github.com/hAPI-hacker/Hacking-APIs)**
+
+- All of the wordlist that works (some was GraphQL queries etc)
+
 **Extra**:
 
 - It also contains endpoints i have found and seen from CTF:s or other places
