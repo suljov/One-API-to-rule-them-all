@@ -8,21 +8,7 @@ This is a collection from multipple wordlists/tools such as:
 
 **[Seclists](https://github.com/danielmiessler/SecLists)**:
 
-- actions-lowercase.txt
-- actions.txt
-- actions-uppercase.txt
-- api-endpoints-res.txt
-- api-endpoints.txt
-- api-seen-in-wild.txt
-- ispsystem_billmanager_api.txt
-- objects-lowercase.txt
-- objects.txt
-- objects-uppercase.txt
-- salesforce-aura-objects.txt
-
 **[Kiterunner](https://github.com/assetnote/kiterunner)**
-
-- Alias: **apiroutes-240528** Filename: **httparchive_apiroutes_2024_05_28.txt**
 
 **[Hacking-APIs by hAPI-hacker](https://github.com/hAPI-hacker/Hacking-APIs)**
 
