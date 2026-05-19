@@ -14,7 +14,7 @@ This is a collection from multipple wordlists/tools such as:
 
 - All of the wordlist that works (some was GraphQL queries etc)
 
-**[kubernetes wordlist](https://github.com/manojdeshmukh45/kubernetes_wordlist)
+**[kubernetes wordlist](https://github.com/manojdeshmukh45/kubernetes_wordlist)**
 
 **Extra**:
 
