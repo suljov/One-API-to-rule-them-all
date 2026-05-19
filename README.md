@@ -6,7 +6,7 @@ This is a wordlist for API hacking and all that tech.
 
 This is a collection from multipple wordlists/tools such as:
 
-**[Seclists](https://github.com/danielmiessler/SecLists)**:
+**[Seclists](https://github.com/danielmiessler/SecLists)**
 
 **[Kiterunner](https://github.com/assetnote/kiterunner)**
 
